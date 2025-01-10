@@ -11,7 +11,7 @@ Welcome to my **Landing Page** project! This project is built using only **HTML*
 
 ## 🚀 Live Demo
 
-Check out the live version of this project here: [Landing Page Live Demo](https://your-github-username.github.io/landing-page-project)
+Check out the live version of this project here: [Landing Page Live Demo]( https://giovannirodriguezdev.github.io/odin-landing-page/)
 
 ## 🛠️ Technologies Used
 
