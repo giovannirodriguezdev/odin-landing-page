@@ -21,7 +21,3 @@ Check out the live version of this project here: [Landing Page Live Demo]( https
 ## 🤝 Contributing
 
 Feel free to fork this repository and make improvements. Pull requests are welcome!
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
